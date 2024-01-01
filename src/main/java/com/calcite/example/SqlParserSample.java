@@ -7,7 +7,7 @@ import org.apache.calcite.sql.parser.SqlParseException;
 import org.apache.calcite.sql.parser.SqlParser;
 
 /**
- * @author quxiucheng
+ * @author chen liu
  * @date 2019-04-22 11:45:00
  */
 public class SqlParserSample {
